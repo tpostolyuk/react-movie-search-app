@@ -1,1 +1,1 @@
-export { $movies, getMovies, clearMovies } from './main'
+export { $movies, getMovies, clearMovies, $isPending, $errorMessage } from './main'
